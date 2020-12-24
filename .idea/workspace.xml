@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b04ae81-5fd7-4614-a1a0-cf5b89a2d7c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kupxlK9XfwKVSpIXYphO86CyAp" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\rgs\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RgsTest.firstTest">
+    <configuration name="RgsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rgs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RgsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RgsTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rgs" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RgsTest" />
+      <option name="METHOD_NAME" value="firstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RgsTest.firstTest" />
+        <item itemvalue="JUnit.RgsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b04ae81-5fd7-4614-a1a0-cf5b89a2d7c4" name="Default Changelist" comment="" />
+      <created>1606560579989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606560579989</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606677126350">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1606677126350" />
+    <state x="583" y="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606675865876">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="583" y="295" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1606675865876" />
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom" timestamp="1606909071536">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606909071536" />
+    <state width="1557" height="215" key="GridCell.Tab.0.center" timestamp="1606909071535">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1606909071535" />
+    <state width="1557" height="215" key="GridCell.Tab.0.left" timestamp="1606909071535">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1606909071535" />
+    <state width="1557" height="215" key="GridCell.Tab.0.right" timestamp="1606909071536">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1606909071536" />
+    <state width="1557" height="266" key="GridCell.Tab.1.bottom" timestamp="1606673248380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1606673248380" />
+    <state width="1557" height="266" key="GridCell.Tab.1.center" timestamp="1606673248380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1606673248380" />
+    <state width="1557" height="266" key="GridCell.Tab.1.left" timestamp="1606673248379">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1606673248379" />
+    <state width="1557" height="266" key="GridCell.Tab.1.right" timestamp="1606673248380">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="266" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1606673248380" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1606675954408">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1606675954408" />
+    <state x="495" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1606673491969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="495" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1606673491969" />
+    <state x="182" y="91" key="new project wizard" timestamp="1606909065689">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="91" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1606909065689" />
+  </component>
+</project>
